@@ -50,10 +50,14 @@
 - **Traffic estimates**: If we consider 30:1 as the search:booking ratio, then max we can expect 1,50,000 search queries a day. _(2 queries/sec)_
 
 
-## Search And Flights Service
-- Create Flights
-- Delete Flights
-- Update Flights
-- Search for Flights
-    - Based on multiple filtration criteria we can search for flights
-    - Pagination
+## Authentication Service
+URL: <https://github.com/Aditya16828/Authentication-Service-AirlineTicketBooking.git>
+
+## Booking Service
+URL: <https://github.com/Aditya16828/BookingService-AirlineTicketBooking.git>
+
+## Email Service
+URL: <https://github.com/Aditya16828/EmailService-AirlineTicketBooking>
+
+## Flights Service
+URL: <https://github.com/Aditya16828/FlightsService-AirlineTicketBooking>
